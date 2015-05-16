@@ -1,3 +1,3 @@
-public class Banana
+private public class Banana
 
 //  My hotfix

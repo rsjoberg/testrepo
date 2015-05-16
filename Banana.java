@@ -1,3 +1,4 @@
-private public class Banana
+public static class Banana
+
 
 //  My hotfix
